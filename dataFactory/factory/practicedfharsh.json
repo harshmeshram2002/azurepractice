@@ -1,0 +1,9 @@
+{
+	"name": "practicedfharsh",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "745d1152-3535-4d9e-a19e-6c0bd970a9e0",
+		"tenantId": "2ee80303-8f56-41a2-a068-acc59121f9b8"
+	}
+}
